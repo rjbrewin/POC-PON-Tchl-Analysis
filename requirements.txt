@@ -4,4 +4,5 @@ statsmodels
 netCDF4
 matplotlib
 libgeos-dev
-cartopy
+cartopy.crs
+cartopy.feature
