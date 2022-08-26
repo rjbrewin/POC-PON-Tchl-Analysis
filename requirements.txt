@@ -1,8 +1,8 @@
+python>=3.6
 pandas
 numpy
 statsmodels
 netCDF4
 matplotlib
 libgeos-dev
-cartopy.crs
-cartopy.feature
+cartopy
