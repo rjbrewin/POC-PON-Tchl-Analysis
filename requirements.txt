@@ -3,4 +3,10 @@ numpy
 statsmodels
 netCDF4
 matplotlib
-cartopy
+Cartopy==0.17.0
+Cython==0.29
+Shapely==1.6.4.post2
+pyshp==2.0.1
+six==1.11.0
+proj --> Rel. 5.2.0, September 15th, 2018
+geos-config --version --> 3.7.0
