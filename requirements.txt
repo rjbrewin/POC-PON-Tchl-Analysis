@@ -1,0 +1,8 @@
+pandas
+numpy >=1.14
+statsmodels.api
+statsmodels.formula.api
+netCDF4
+matplotlib
+cartopy.crs
+cartopy.feature
