@@ -1,6 +1,8 @@
 pandas
 numpy
-statsmodels
+statsmodels.api
+statsmodels.formula.api
 netCDF4
 matplotlib
-cartopy
+cartopy.crs
+cartopy.feature
